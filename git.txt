@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hi everyone..
 
 remove everything
+=======
+hi there . this is for text.
+changed for 2nd time
+>>>>>>> eb696546ef8ed27b35b222d8812f9a9b8cbb38a1
